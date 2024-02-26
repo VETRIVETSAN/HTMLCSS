@@ -1,0 +1,14 @@
+class m1
+{
+	public static void main(String[]args)
+	{
+		char ch='a';
+		int res=ch*ch;
+
+		System.out.println(ch);
+		System.out.println(res);
+
+
+
+	}
+}

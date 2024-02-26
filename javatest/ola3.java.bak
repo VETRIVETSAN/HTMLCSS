@@ -1,0 +1,13 @@
+class ola3
+
+{
+	public static void main(String[]args)
+	{
+		String name="VETRI";
+		double a=98.726543210;
+
+		System.out.println(name);
+		System.out.println(a);
+		
+	}
+}

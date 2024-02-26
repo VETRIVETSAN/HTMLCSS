@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>grid</title>
+    <style>
+        .grid-control{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-row-gap: 20px;
+            grid-column-gap: 40px;
+
+        }
+        .divA{
+            background-color: lightblue;
+            height: 100px;
+
+        }
+        .divB{
+            background-color: lightpink;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-control">
+        <div class="divA">div1</div>
+        <div class="divB">div2</div>
+        <div class="divA">div1</div>
+        <div class="divB">div2</div>
+        <div class="divA">div1</div>
+        <div class="divB">div2</div>
+    </div>
+</body>
+</html>

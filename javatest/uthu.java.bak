@@ -1,0 +1,22 @@
+import java.util.*;
+class uthu
+{
+	static Scanner sc=new Scanner(System.in);
+	public static void main(String[]args)
+	{
+		System.out.println("\t\t\t welcome");
+		System.out.println("select the icons");
+		System.out.println("1.vegetale/n2.fruit/n3.exit");
+		int icons=sc.nextInt();
+
+
+
+		
+
+
+
+
+
+	}
+	
+}
