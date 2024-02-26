@@ -1,0 +1,28 @@
+import java.util.Scanner;
+class PosNeg1
+{
+	static Scanner ammu=new Scanner(System.in);
+	public static void main(String[] args) 
+	{
+		System.out.println("enter number");
+		int num=ammu.nextInt();
+
+		switch (num>0)
+		{
+		case (true) :
+			{
+			System.out.println("positive number");
+			}
+		case (false) :
+			{
+			System.out.println("negative number");
+			}
+
+		
+		}
+
+
+		
+
+	}
+}

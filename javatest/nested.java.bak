@@ -1,0 +1,27 @@
+import java.util.*;
+class nested 
+{
+	static Scanner sc=new Scanner(System.in);
+	public static void main(String[] args) 
+	{
+		System.out.println("enter the number");
+		int number=sc.nextInt();
+
+		if (number%2==0)
+		{
+			if(number<100)
+			{
+				System.out.println("even number and also under 100");
+			}
+			else
+			{
+				System.out.println("even number only");
+			}
+		}
+		else
+		{
+			System.out.println("odd number");
+		}
+		
+	}
+}

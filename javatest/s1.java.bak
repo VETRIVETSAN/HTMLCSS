@@ -1,0 +1,14 @@
+class s1
+{
+	public static void main(String[]args)
+	{
+
+	double wallet=1000;
+	System.out.println("amount in wallet;"+wallet);
+	double spent=650;
+	System.out.println("amount Spend;"+spend);
+	wallet=wallet-spend;
+	System.out.println("available balance;"+wallet);
+	}
+
+}

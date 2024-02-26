@@ -1,0 +1,15 @@
+class ex4 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("hi i love u");
+		String res=love("vetsan");
+		 
+		System.out.println("bye i hate u");
+	}
+	public static int love(String s)
+	{
+		System.out.println("heart");
+		System.out.println("break");
+	}
+}

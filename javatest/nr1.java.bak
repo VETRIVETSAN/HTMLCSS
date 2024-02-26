@@ -1,0 +1,11 @@
+class nr1
+{
+	public static void main(String[]args)
+	{
+		double res=15.6;
+		short h=(double)res;
+		System.out.println(res);
+		System.out.println(h);
+		
+	}
+}

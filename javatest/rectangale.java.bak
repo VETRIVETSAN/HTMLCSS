@@ -1,0 +1,14 @@
+class rectangale
+{
+	public static int calculatearea(int length,int width)
+	{
+		return length=width;
+	}
+	public static void main(String[]args)
+	{
+		int length=5;
+		int width=3;
+		int area=calculatearea(length,width);
+		System.out.println("the area of the rectangale is:"+area);  
+	}
+}

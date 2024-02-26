@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    height: 55px;
+    align-items: center;
+
+}
+.left-section{
+
+    width: 200px;
+    
+}
+.middle-section{
+    background-color: lightpink;
+    display: flex;
+    align-items: center;
+}
+.right-section{
+    background-color: lightblue;
+    flex: 1;
+}
+.hamburger-menu{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.youtube-logo{
+    height: 25px;
+    align-content: center;
+}
+.searchbar{
+    height: 40px;
+    align-content: center;
+}
+.search-button{
+    height: 45px;
+    width: 40px;
+}
+.search-logo{
+    margin-top: 100px;
+}
+.voice-button{
+    height: 45px;
+    width: 40px;
+}

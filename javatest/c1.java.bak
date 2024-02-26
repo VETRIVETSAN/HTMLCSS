@@ -1,0 +1,10 @@
+class  c1
+{
+	public static void main(String[] args) 
+	{
+		float a=12.5f;
+		String name=(" is a value");
+		System.out.println(a+name);
+	
+	}
+}

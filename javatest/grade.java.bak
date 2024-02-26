@@ -1,0 +1,11 @@
+import java.util.*;
+class grade
+{
+	static Scanner sc=new Scanner(System.in);
+	public static void main(String[]args)
+	{
+		System.out.println("enter your grade");
+		int gr=sc.nextInt();
+
+	}
+}
